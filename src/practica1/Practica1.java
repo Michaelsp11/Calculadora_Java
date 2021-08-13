@@ -38,7 +38,7 @@ public class Practica1 {
             System.out.println("3. Multiplicar");
             System.out.println("4. Dividir");
             System.out.println("5. Salir");
-            option = Util.demanarInt("Escoge una opción: ");
+            option = Util.pedirInt("Escoge una opción: ");
             if (option < 1 || option > 5) {
                 System.out.println("Opción erronia!!");
             }
