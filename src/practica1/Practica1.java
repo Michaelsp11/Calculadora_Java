@@ -75,8 +75,8 @@ public class Practica1 {
 		return result;
 	}
 
-	public static double suma(double primerNumero, double segundoNumero) {
-		return primerNumero + segundoNumero;
+	public static double suma(double primerNumero, double segundoNum) {
+		return primerNumero + segundoNum;
 	}
 
 	public static double resta(double primerNumero, double segundoNumero) {
